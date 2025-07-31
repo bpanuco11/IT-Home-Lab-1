@@ -1,2 +1,8 @@
-# IT-Home-Lab-1
-A hands-on IT home lab for San Diego MTS - Domain Controller, ADDS, DNS, and more
+# MTS Home Lab
+
+This repository documents the weekly setup and configuration tasks for the MTS IT Lab.
+
+## 📅 Weekly Breakdown
+
+- [Week 1 – Initial VM and Network Setup](./week1/README.md)
+- [Week 2 – TBD](./week2/README.md)
