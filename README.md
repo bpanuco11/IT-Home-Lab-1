@@ -5,4 +5,5 @@ This repository documents the weekly setup and configuration tasks for the MTS I
 ## 📅 Weekly Breakdown
 
 - [Week 1 – Initial VM and Network Setup](./week1/README.md)
-- [Week 2 – TBD](./week2/README.md)
+- [Week 2 – Active Directory & DNS Setup](./week2/README.md)
+- [Week 2 – Active Directory & DNS Setup](./week3/README.md)

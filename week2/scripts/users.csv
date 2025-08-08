@@ -1,0 +1,4 @@
+GivenName,Surname,Sam,OU,Password
+Alice,Smith,asmith,OU=IT,DC=contoso,DC=com,P@ssw0rd!
+Bob,Jones,bjones,OU=HR,DC=contoso,DC=com,P@ssw0rd!
+Charlie,Brown,cbrown,OU=IT,DC=contoso,DC=com,P@ssw0rd!
